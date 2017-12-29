@@ -1,3 +1,2 @@
-# cdp-5
-simple start terraform puppet 
-with default VPC
+# cdp-3.8
+terraform RDS EC2 Mysql replica
